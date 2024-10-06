@@ -1,3 +1,3 @@
-Anagha P 
-Python | Web Dev
-20 | CUSAT
+- 👋 Hi, I’m Anagha P.
+- 🌱 Learning Python & web development to create sustainable tech solutions.
+- 💡 Passionate about innovation and sustainability
